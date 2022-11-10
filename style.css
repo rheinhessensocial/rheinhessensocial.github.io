@@ -1,0 +1,21 @@
+html {
+	background: #191b22;
+	color: white;
+}
+body {
+	max-width: 1200px;
+	margin: auto;
+}
+h1, h2 {
+	text-align: center;
+}
+.center {
+	text-align: center;
+}
+footer {
+	position: absolute;
+	bottom: 1em;
+}
+a, a:visited {
+	color: white;
+}
