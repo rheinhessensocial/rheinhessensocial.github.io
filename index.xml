@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rheinhessen.social</title>
+    <title>Über on rheinhessen.social</title>
     
     
     
     <link>/</link>
-    <description>Recent content on rheinhessen.social</description>
+    <description>Recent content in Über on rheinhessen.social</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Über</title>
-      <link>/</link>
+      <title>Finanzen</title>
+      <link>/finanzen/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
       
-      <guid>/</guid>
+      <guid>/finanzen/</guid>
       <description>
         
           
@@ -27,7 +28,27 @@
         
         
         
-          allgemeine Infos zur Mastodon-Instanz rheinhessen.social
+          Finanzierung der Mastodon-Instanz rheinhessen.social
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>/impressum/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0100</pubDate>
+      
+      <guid>/impressum/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Die Impressumspflicht in ihrer aktuellen Form gehört dringend reformiert. Nunja, es ist wie es ist. Also:
           
         
         </description>
